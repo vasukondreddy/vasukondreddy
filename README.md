@@ -1,9 +1,13 @@
 ### Hi  👋, I'm Vasudeva Reddy Kondreddy
 
 🔭 I’m currently working on creating a chatbot for an E-learning Project
+
 🌱 I’m currently learning PyTorch
+
 💬 Ask me about Python, Machine Learning, DSA, Deep Learning
-📫 How to reach me: mailto:vasudevareddykondreddy@gamil.com
+
+📫 How to reach me: vasudevareddykondreddy@gamil.com
+
 ⚡ 
 
 ---
