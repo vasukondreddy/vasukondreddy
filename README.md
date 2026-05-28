@@ -1,12 +1,12 @@
 ### Hi  👋, I'm Vasudeva Reddy Kondreddy
 
-⚡ Aspiring to become a Data Scientist
+⚡ Aspiring SAP ABAP Cloud Developer passionate about building enterprise applications using RAP and Fiori Elements
 
-🔭 I’m currently working on creating a chatbot for an E-learning Project
+🔭 Currently working on SAP RAP-based business applications and backend development projects
 
-🌱 I’m currently learning PyTorch
+🌱 Currently learning advanced SAP ABAP Cloud concepts, RAP, and SAP BTP
 
-💬 Ask me about Python, Machine Learning, DSA, Deep Learning
+💬 Ask me about SAP ABAP Cloud, RAP, CDS Views, Fiori Elements, Python, and Machine Learning
 
 📫 How to reach me: vasudevareddykondreddy@gamil.com
 
@@ -17,11 +17,19 @@
 
 
 ### 🛠️ Languages and Tools:
-  -  **python**
-  -  **Data Analysis**
-  -  **Machine Learning**
-  -  **PyTorch**
-  -  **Data Structure and Algorithm**
+
+* **SAP ABAP Cloud**
+* **RAP (RESTful ABAP Programming Model)**
+* **CDS View Entities**
+* **Fiori Elements**
+* **SAP BTP ABAP Environment**
+* **OData V4**
+* **ABAP DDIC**
+* **Eclipse ADT**
+* **Python**
+* **Machine Learning**
+* **Data Structures and Algorithms**
+
     
 
 
